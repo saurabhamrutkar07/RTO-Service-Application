@@ -37,26 +37,21 @@ Now, this tool is not only useful for my personal projects but can also benefit 
 
 Here are some screenshots of the **RTO Service Application** to give you a glimpse of the interface and user experience:
 
-1. **Homepage**  
+**Homepage**  
    ![Homepage Screenshot](<frontend/assets/screencapture-localhost-3000-2025-02-23-12_29_39%20(1).png>)
 
-2. **Search for RTO Code**  
    ![Search for RTO Code Screenshot](frontend/assets/screencapture-localhost-3000-2025-02-23-12_30_49.png)
 
-3. **State & District Information**  
-   ![State & District Information Screenshot](frontend/assets/screencapture-localhost-3000-2025-02-23-12_33_48.png)
+   ![State & District Information Screenshot](frontend/assets/screencapture-localhost-3000-rto-code-lookup-2025-02-23-12_33_48.png)
 
-4. **RTO Code Generation**  
-   ![RTO Code Generation Screenshot](frontend/assets/screencapture-localhost-3000-2025-02-23-12_34_05.png)
+   ![RTO Code Generation Screenshot](frontend/assets/screencapture-localhost-3000-rto-code-lookup-2025-02-23-12_34_05.png)
 
-5. **Generated RTO Code**  
-   ![Generated RTO Code Screenshot](frontend/assets/screencapture-localhost-3000-2025-02-23-12_34_36.png)
+   ![Generated RTO Code Screenshot](frontend/assets/screencapture-localhost-3000-rto-code-lookup-2025-02-23-12_34_36.png)
 
-6. **Real-Time Data Display**  
-   ![Real-Time Data Screenshot](frontend/assets/screencapture-localhost-3000-2025-02-23-12_31_42.png)
+   ![Real-Time Data Screenshot](frontend/assets/screencapture-localhost-3000-rto-information-2025-02-23-12_31_42.png)
 
-7. **Interactive Dashboard**  
-   ![Interactive Dashboard Screenshot](frontend/assets/screencapture-localhost-3000-2025-02-23-12_32_04.png)
+
+   ![Interactive Dashboard Screenshot](frontend/assets/screencapture-localhost-3000-rto-information-2025-02-23-12_32_04.png)
 
 ---
 
@@ -87,5 +82,5 @@ Follow these steps to get the project up and running on your local machine:
 ### 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone "https://github.com/saurabhamrutkar07/RTO-Service-Application.git"
 ```
