@@ -1,0 +1,180 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+
+/* Tailwind customizations or use the utility classes directly in JSX */
+
+.w-full {
+  width: 100%;
+}
+
+.p-3 {
+  padding: 12px;
+}
+
+.border {
+  border-width: 1px;
+}
+
+.border-grey-300 {
+  border-color: #d1d5db;
+}
+
+.rounded-md {
+  border-radius: 8px;
+}
+
+.text-grey-700 {
+  color: #4b5563;
+}
+
+.bg-blue-700 {
+  background-color: #1e40af;
+}
+
+.bg-blue-800 {
+  background-color: #1e3a8a;
+}
+
+.text-white {
+  color: white;
+}
+
+.font-semibold {
+  font-weight: 600;
+}
+
+.hover\:bg-blue-800:hover {
+  background-color: #1e3a8a;
+}
+
+.mb-6 {
+  margin-bottom: 1.5rem;
+}
+
+.max-w-lg {
+  max-width: 32rem;
+}
+
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.bg-white {
+  background-color: #ffffff;
+}
+
+.p-8 {
+  padding: 2rem;
+}
+
+.rounded-lg {
+  border-radius: 12px;
+}
+
+.shadow-lg {
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+}
+
+.mt-8 {
+  margin-top: 2rem;
+}
+
+.text-lg {
+  font-size: 1.125rem;
+}
+
+.block {
+  display: block;
+}
+
+.mb-2 {
+  margin-bottom: 0.5rem;
+}
+
+.text-lg {
+  font-size: 1.125rem;
+}
+
+select {
+  background-color: #f4f7fc; /* Light background for better visibility */
+  color: #333; /* Dark text for better contrast */
+  border: 1px solid #ccc; /* Subtle border */
+  padding: 10px; /* Spacing inside the dropdown */
+  border-radius: 8px; /* Rounded corners */
+  cursor: pointer; /* Change cursor to pointer */
+}
+
+option {
+  background-color: #ffffff; /* White background for options */
+  color: #333; /* Dark text for readability */
+  padding: 8px 12px;
+}
+
+
+select:focus {
+  outline: none;
+  border-color: #1f3c73;  /* Blue border on focus */
+}
+
+/* Styling for select dropdown */
+select {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #d1d5db; /* Light border color */
+  border-radius: 8px;         /* Rounded corners */
+  background-color: #f4f7fc;  /* Light background */
+  color: #333;                /* Dark text */
+  cursor: pointer;            /* Pointer cursor on hover */
+}
+
+/* Styling for options inside select */
+option {
+  background-color: #ffffff;  /* White background for options */
+  color: #333;                /* Dark text color */
+  padding: 8px 12px;          /* Padding inside option */
+  cursor: pointer;            /* Pointer cursor on hover */
+}
+
+/* Hover effect for options */
+option:hover {
+  background-color: #e0e0e0;  /* Light gray background on hover */
+  color: #1f3c73;             /* Blue text color on hover */
+}

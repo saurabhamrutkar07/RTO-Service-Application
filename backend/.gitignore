@@ -1,0 +1,24 @@
+# Exclude .env file from version control
+.env
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Virtual environment directories
+venv/
+env/
+
+# .idea (if using JetBrains IDEs like PyCharm)
+.idea/
+
+# Other common files to ignore
+*.log
+*.sqlite3
+*.db
+
+# macOS Finder files
+.DS_Store
+
+# Windows thumb cache
+Thumbs.db
